@@ -16,5 +16,5 @@ alias snapr="sudo snap remove"
 
 ## tmux
 alias tkill="tmux kill-session"
-alias tstart="tmux new-session -A -s code"
+alias tstart="tmux -u new-session -A -s code"
 alias texit="tmux detach"
