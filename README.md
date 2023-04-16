@@ -1,8 +1,8 @@
-## LINUX
+# LINUX
 
 contains all linux configuration files.
 
-# tracked files
+### tracked files
 ```sh
 git add \
 ~/.bashrc \
